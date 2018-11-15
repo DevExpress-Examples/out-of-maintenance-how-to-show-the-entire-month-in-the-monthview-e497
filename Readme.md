@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/E497/Default.aspx)
+* [Default.aspx.cs](./CS/E497/Default.aspx.cs)
+* [Global.asax](./CS/E497/Global.asax)
+* [Global.asax.cs](./CS/E497/Global.asax.cs)
+* [MyCallbackCommands.cs](./CS/E497/MyCallbackCommands.cs)
+<!-- default file list end -->
 # How to show the entire month in the MonthView
 
 
