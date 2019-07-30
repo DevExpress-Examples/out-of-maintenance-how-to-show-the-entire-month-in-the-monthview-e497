@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to show the entire month in the MonthView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e497)**
+**[[Run Online]](https://codecentral.devexpress.com/e497/)**
 <!-- run online end -->
 
 
